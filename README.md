@@ -50,47 +50,46 @@ purple-team-lab/
 ├── informe-purple-team.tex
 ├── troubleshooting-wazuh.md
 └── capturas/
-├── diagrama-arquitectura.png
-├── tabla-comparativa-b1-vs-b3.png
-├── tabla-reglas.png
-├── tabla-tecnicas-ejecutadas.png
-├── fase01-atomic-red-team-instalado.png
-├── fase01-windows-baseline-sin-defensa.png
-├── fase01-windows-baseline-sin-defensa_02.png
-├── fase01-windows-bypassnro.png
-├── fase01-windows-bypassnro-no-internet.png
-├── fase01-windows-desktop.png
-├── fase01-windows-exclusiones.png
-├── fase01-windows-snapshot-limpio.png
-├── fase01-windows-summary-ip.png
-├── fase01-windows-virtio-scsi.png
-├── fase01-windows-virtio-tools.png
-├── fase02-defender-deteccion-amsi.png
-├── fase02-defender-exclusiones-ampliadas.png
-├── fase03-filebeat-connector.png
-├── fase03-indexer-connector-ok.png
-├── fase03-indice-alertas-creado.png
-├── fase03-sysmon-detecta-ataque.png
-├── fase03-sysmon-eventos.png
-├── fase03-sysmon-instalado.png
-├── fase03-wazuh-agente-activo.png
-├── fase03-wazuh-agente-leyendo-sysmon.png
-├── fase03-wazuh-agente-windows-running.png
-├── fase03-wazuh-dashboard-instalado.png
-├── fase03-wazuh-detalle-evento.png
-├── fase03-wazuh-detalle-evento-completo.png
-├── fase03-wazuh-detalle-regla-mitre.png
-├── fase03-wazuh-detecta-ataque.png
-├── fase03-wazuh-eventos-reales.png
-├── fase03-wazuh-hash-password.png
-├── fase03-wazuh-password-cambiada.png
-├── fase03-wazuh-sysmon-config.png
-├── fase03-wazuh-sysmon-leyendo.png
-├── fase03-wazuh-t1057.png
-├── fase03-wazuh-t1059-001-10.png
-├── fase03-wazuh-t1082.png
-└── fase03-wazuh-vm-instalada.png
-
+    ├── diagrama-arquitectura.png
+    ├── tabla-comparativa-b1-vs-b3.png
+    ├── tabla-reglas.png
+    ├── tabla-tecnicas-ejecutadas.png
+    ├── fase01-atomic-red-team-instalado.png
+    ├── fase01-windows-baseline-sin-defensa.png
+    ├── fase01-windows-baseline-sin-defensa_02.png
+    ├── fase01-windows-bypassnro.png
+    ├── fase01-windows-bypassnro-no-internet.png
+    ├── fase01-windows-desktop.png
+    ├── fase01-windows-exclusiones.png
+    ├── fase01-windows-snapshot-limpio.png
+    ├── fase01-windows-summary-ip.png
+    ├── fase01-windows-virtio-scsi.png
+    ├── fase01-windows-virtio-tools.png
+    ├── fase02-defender-deteccion-amsi.png
+    ├── fase02-defender-exclusiones-ampliadas.png
+    ├── fase03-filebeat-connector.png
+    ├── fase03-indexer-connector-ok.png
+    ├── fase03-indice-alertas-creado.png
+    ├── fase03-sysmon-detecta-ataque.png
+    ├── fase03-sysmon-eventos.png
+    ├── fase03-sysmon-instalado.png
+    ├── fase03-wazuh-agente-activo.png
+    ├── fase03-wazuh-agente-leyendo-sysmon.png
+    ├── fase03-wazuh-agente-windows-running.png
+    ├── fase03-wazuh-dashboard-instalado.png
+    ├── fase03-wazuh-detalle-evento.png
+    ├── fase03-wazuh-detalle-evento-completo.png
+    ├── fase03-wazuh-detalle-regla-mitre.png
+    ├── fase03-wazuh-detecta-ataque.png
+    ├── fase03-wazuh-eventos-reales.png
+    ├── fase03-wazuh-hash-password.png
+    ├── fase03-wazuh-password-cambiada.png
+    ├── fase03-wazuh-sysmon-config.png
+    ├── fase03-wazuh-sysmon-leyendo.png
+    ├── fase03-wazuh-t1057.png
+    ├── fase03-wazuh-t1059-001-10.png
+    ├── fase03-wazuh-t1082.png
+    └── fase03-wazuh-vm-instalada.png
 
 ---
 
