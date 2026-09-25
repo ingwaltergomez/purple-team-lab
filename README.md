@@ -41,6 +41,8 @@ La comparación entre el escenario sin SIEM (Base 1) y el escenario con SIEM (Ba
 
 ---
 
+## Estructura del Repositorio
+```
 purple-team-lab/
 ├── README.md
 ├── informe-purple-team.md
@@ -88,7 +90,7 @@ purple-team-lab/
     ├── fase03-wazuh-t1059-001-10.png
     ├── fase03-wazuh-t1082.png
     └── fase03-wazuh-vm-instalada.png
-
+```
 ---
 
 ## Artefactos
